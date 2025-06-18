@@ -1,0 +1,26 @@
+# Configuration files
+config.php
+
+# Environment files
+.env
+
+# Dependencies
+/vendor/
+
+# IDE files
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# Cache files
+*.cache
+
+# Temporary files
+*.tmp
+*.temp
+
+# System files
+.DS_Store
+Thumbs.db 
